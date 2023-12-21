@@ -7,4 +7,5 @@
 * Mujer Maravilla
 * Linterna verde
 * Robin
+* Hombre araña
 
