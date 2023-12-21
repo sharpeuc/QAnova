@@ -8,4 +8,5 @@
 * Linterna verde
 * Robin
 * Hombre araña
+* Hulk
 
